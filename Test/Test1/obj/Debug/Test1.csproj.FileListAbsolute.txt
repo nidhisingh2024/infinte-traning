@@ -1,0 +1,6 @@
+D:\infinte traning\CSharp\Test\Test1\bin\Debug\Test1.exe.config
+D:\infinte traning\CSharp\Test\Test1\bin\Debug\Test1.exe
+D:\infinte traning\CSharp\Test\Test1\bin\Debug\Test1.pdb
+D:\infinte traning\CSharp\Test\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+D:\infinte traning\CSharp\Test\Test1\obj\Debug\Test1.exe
+D:\infinte traning\CSharp\Test\Test1\obj\Debug\Test1.pdb
