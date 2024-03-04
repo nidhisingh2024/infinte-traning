@@ -1,7 +1,0 @@
-D:\infinte traning\CSharp\Test\Test\bin\Debug\Test.exe.config
-D:\infinte traning\CSharp\Test\Test\bin\Debug\Test.exe
-D:\infinte traning\CSharp\Test\Test\bin\Debug\Test.pdb
-D:\infinte traning\CSharp\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
-D:\infinte traning\CSharp\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
-D:\infinte traning\CSharp\Test\Test\obj\Debug\Test.exe
-D:\infinte traning\CSharp\Test\Test\obj\Debug\Test.pdb
