@@ -1,0 +1,6 @@
+D:\infinte traning\CSharp\Assignment\Strings\bin\Debug\Strings.exe.config
+D:\infinte traning\CSharp\Assignment\Strings\bin\Debug\Strings.exe
+D:\infinte traning\CSharp\Assignment\Strings\bin\Debug\Strings.pdb
+D:\infinte traning\CSharp\Assignment\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+D:\infinte traning\CSharp\Assignment\Strings\obj\Debug\Strings.exe
+D:\infinte traning\CSharp\Assignment\Strings\obj\Debug\Strings.pdb

@@ -1,0 +1,6 @@
+D:\infinte traning\CSharp\Assignment\Assinment2\bin\Debug\Assinment2.exe.config
+D:\infinte traning\CSharp\Assignment\Assinment2\bin\Debug\Assinment2.exe
+D:\infinte traning\CSharp\Assignment\Assinment2\bin\Debug\Assinment2.pdb
+D:\infinte traning\CSharp\Assignment\Assinment2\obj\Debug\Assinment2.csproj.CoreCompileInputs.cache
+D:\infinte traning\CSharp\Assignment\Assinment2\obj\Debug\Assinment2.exe
+D:\infinte traning\CSharp\Assignment\Assinment2\obj\Debug\Assinment2.pdb

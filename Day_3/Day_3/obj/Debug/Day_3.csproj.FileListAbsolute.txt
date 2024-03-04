@@ -1,7 +1,0 @@
-D:\infinte traning\CSharp\Day_3\Day_3\bin\Debug\Day_3.exe.config
-D:\infinte traning\CSharp\Day_3\Day_3\bin\Debug\Day_3.exe
-D:\infinte traning\CSharp\Day_3\Day_3\bin\Debug\Day_3.pdb
-D:\infinte traning\CSharp\Day_3\Day_3\obj\Debug\Day_3.csproj.AssemblyReference.cache
-D:\infinte traning\CSharp\Day_3\Day_3\obj\Debug\Day_3.csproj.CoreCompileInputs.cache
-D:\infinte traning\CSharp\Day_3\Day_3\obj\Debug\Day_3.exe
-D:\infinte traning\CSharp\Day_3\Day_3\obj\Debug\Day_3.pdb
