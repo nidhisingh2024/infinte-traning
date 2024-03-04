@@ -1,0 +1,7 @@
+D:\infinte traning\CSharp\Practice\Practice\bin\Debug\Practice.exe.config
+D:\infinte traning\CSharp\Practice\Practice\bin\Debug\Practice.exe
+D:\infinte traning\CSharp\Practice\Practice\bin\Debug\Practice.pdb
+D:\infinte traning\CSharp\Practice\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+D:\infinte traning\CSharp\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+D:\infinte traning\CSharp\Practice\Practice\obj\Debug\Practice.exe
+D:\infinte traning\CSharp\Practice\Practice\obj\Debug\Practice.pdb

@@ -1,0 +1,7 @@
+D:\infinte traning\CSharp\practice_day4\practice_day4\bin\Debug\practice_day4.exe.config
+D:\infinte traning\CSharp\practice_day4\practice_day4\bin\Debug\practice_day4.exe
+D:\infinte traning\CSharp\practice_day4\practice_day4\bin\Debug\practice_day4.pdb
+D:\infinte traning\CSharp\practice_day4\practice_day4\obj\Debug\practice_day4.csproj.AssemblyReference.cache
+D:\infinte traning\CSharp\practice_day4\practice_day4\obj\Debug\practice_day4.csproj.CoreCompileInputs.cache
+D:\infinte traning\CSharp\practice_day4\practice_day4\obj\Debug\practice_day4.exe
+D:\infinte traning\CSharp\practice_day4\practice_day4\obj\Debug\practice_day4.pdb

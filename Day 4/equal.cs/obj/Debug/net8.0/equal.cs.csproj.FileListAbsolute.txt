@@ -1,0 +1,15 @@
+D:\infinte traning\CSharp\Day 4\equal.cs\bin\Debug\net8.0\equal.cs.exe
+D:\infinte traning\CSharp\Day 4\equal.cs\bin\Debug\net8.0\equal.cs.deps.json
+D:\infinte traning\CSharp\Day 4\equal.cs\bin\Debug\net8.0\equal.cs.runtimeconfig.json
+D:\infinte traning\CSharp\Day 4\equal.cs\bin\Debug\net8.0\equal.cs.dll
+D:\infinte traning\CSharp\Day 4\equal.cs\bin\Debug\net8.0\equal.cs.pdb
+D:\infinte traning\CSharp\Day 4\equal.cs\obj\Debug\net8.0\equal.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\infinte traning\CSharp\Day 4\equal.cs\obj\Debug\net8.0\equal.cs.AssemblyInfoInputs.cache
+D:\infinte traning\CSharp\Day 4\equal.cs\obj\Debug\net8.0\equal.cs.AssemblyInfo.cs
+D:\infinte traning\CSharp\Day 4\equal.cs\obj\Debug\net8.0\equal.cs.csproj.CoreCompileInputs.cache
+D:\infinte traning\CSharp\Day 4\equal.cs\obj\Debug\net8.0\equal.cs.sourcelink.json
+D:\infinte traning\CSharp\Day 4\equal.cs\obj\Debug\net8.0\equal.cs.dll
+D:\infinte traning\CSharp\Day 4\equal.cs\obj\Debug\net8.0\refint\equal.cs.dll
+D:\infinte traning\CSharp\Day 4\equal.cs\obj\Debug\net8.0\equal.cs.pdb
+D:\infinte traning\CSharp\Day 4\equal.cs\obj\Debug\net8.0\equal.cs.genruntimeconfig.cache
+D:\infinte traning\CSharp\Day 4\equal.cs\obj\Debug\net8.0\ref\equal.cs.dll
